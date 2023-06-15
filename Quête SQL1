@@ -1,0 +1,5 @@
+SELECT * FROM `movie` WHERE 1;
+
+SELECT `name`, `id`, `poster` FROM `movie`;
+
+SELECT `poster`, `comment` AS `avis_spectateur` FROM `movie`;
