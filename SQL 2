@@ -1,0 +1,7 @@
+INSERT INTO movie VALUES (null, 'Le Loup de Wall Street', 'https://m.media-amazon.com/images/I/51tjFmNBV+L._AC_.jpg', "J'aime bien ce film" ); 
+
+INSERT INTO movie (name, poster, comment) VALUES ('Harry Potter', 'https://harrypotter.com', 'Bonjour Harry, je suis ton père');
+
+INSERT INTO movie (name, poster, comment) VALUES ('Le petit Prince', 'https://lepetitprince.com', 'Super film'), ('Les petits mouchoirs', 'https://lespetitsmouchoirs.com', 'Interessant, belle critique'), ('Un enfant', 'https://unenfant.com', 'un enfant perdu en pleine montagne');
+
+INSERT INTO movie (name) VALUES ('Le chat potté');
