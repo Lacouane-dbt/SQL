@@ -1,0 +1,5 @@
+DELETE FROM movie 
+WHERE id='5'; 
+
+DELETE FROM movie
+WHERE id > '10';
